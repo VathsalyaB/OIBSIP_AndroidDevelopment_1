@@ -40,7 +40,8 @@ Successfully developed a unit converter application capable of performing accura
 
 ##  Demo Video
 
-*(Add YouTube or LinkedIn video link here)*
+https://www.linkedin.com/posts/vathsalya-b-127154334_androiddevelopment-java-androidstudio-ugcPost-7477708372461408256-wJQV/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7477708456007749634&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_android&rcm=ACoAAFQG_K8B8_VO3GXCEvwCTFAjcXUJdU227UU
+UC
 
 ##  Author
 
